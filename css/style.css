@@ -112,7 +112,9 @@ section {
 
 img {
     display: block;
-    width: 400px;
-    height: 250px;
+    width: 200rem;
+    padding: 1rem;
+    /*Avoid using height if you can instead use the padding */
+    /* height: 250px; */
     max-width: 100%;
 }
