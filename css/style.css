@@ -112,7 +112,7 @@ section {
 
 img {
     display: block;
-    width: 200rem;
+    width: 100%;
     padding: .5em; /* Based of 16px font size, so .5 * 16 which is 8px */
     /*Avoid using height if you can instead use the padding */
     /* height: 250px; */
